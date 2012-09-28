@@ -8,6 +8,111 @@
 	margin-right:auto;
 }
 
+.container2{
+	background:url(images/12.jpg) no-repeat;
+	height:100%;
+	width:100%;
+}
+
+
+.formClass{
+	width:300px;
+	margin-left:-20px;
+	margin-top:50px;
+	height: 130px;
+	vertical-align:baseline;
+	padding: 20px;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow:2px 2px 5px #9E9E9E;
+}
+
+.userclass{
+	width:1200px;
+	margin-left:70px;
+	margin-top:40px;
+	height: 180px;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow:2px 2px 5px #9E9E9E;
+
+}
+.sizecarousel
+{
+	height:320px;
+	width:620px;
+}
+
+.usercontent{
+	width:500px;
+	margin-left:90px;
+	height:80px;
+	padding:20px;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow:2px 2px 5px #9E9E9E;
+
+}
+
+.grpalign{
+	margin-left:80px !important;
+	padding:30px;
+	width:850px;
+}
+
+
+.sizeimg{
+	width:200px;
+	margin:3px;
+	height:165px;
+}
+
+.content{
+	font-family: 'Lucida Grande';
+    font-size: 30px;
+    font-weight: bolder;
+    padding: 20px;
+    vertical-align: 50px;
+	color:#2C2C2C;
+
+}
+
+.content1{
+	font-family: Georgia;
+    font-size: 15px;
+    font-weight: normal;
+    margin-left: -90px;
+	color: #7A7A7A;
+	font-style:italic;
+	width: 800px;
+}
+
+.contclass{
+	background: none repeat scroll 0 0 rgba(34, 25, 25, 0.05);
+    height: 100%;
+	width: 100%;
+}
+
+.formClass1{
+	width:300px;
+	margin-left:-20px;
+	margin-top:30px;
+	height: 200px;
+	vertical-align:baseline;
+	padding: 20px;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow:2px 2px 5px #9E9E9E;
+}
+
+.emailWidth{
+	width:280px;
+}
+
+.alignControls{
+	position:relative;
+}
+
+input{
+    height:30px !important;
+}
+
 h1{
 	font-size:50px !important;
 	text-align: left;
@@ -42,6 +147,26 @@ img{
 .right_text{
 	float:right;
 }
+
+
+.containerColor{
+background-image: linear-gradient(bottom, rgb(217,214,217) 0%, rgb(235,232,235) 48%, rgb(255,255,255) 83%);
+background-image: -o-linear-gradient(bottom, rgb(217,214,217) 0%, rgb(235,232,235) 48%, rgb(255,255,255) 83%);
+background-image: -moz-linear-gradient(bottom, rgb(217,214,217) 0%, rgb(235,232,235) 48%, rgb(255,255,255) 83%);
+background-image: -webkit-linear-gradient(bottom, rgb(217,214,217) 0%, rgb(235,232,235) 48%, rgb(255,255,255) 83%);
+background-image: -ms-linear-gradient(bottom, rgb(217,214,217) 0%, rgb(235,232,235) 48%, rgb(255,255,255) 83%);
+
+background-image: -webkit-gradient(
+	linear,
+	left bottom,
+	left top,
+	color-stop(0, rgb(217,214,217)),
+	color-stop(0.48, rgb(235,232,235)),
+	color-stop(0.83, rgb(255,255,255))
+);
+
+}
+
 
 .body_class{
 background-image: linear-gradient(bottom, rgb(119,119,119) 0%, rgb(167,167,167) 22%, rgb(255,255,255) 100%);
